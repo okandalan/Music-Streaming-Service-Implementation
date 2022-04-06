@@ -5,4 +5,4 @@ In this assignment a circular doubly linked list class is implemented, then it i
 
 main_linkedlist.cpp and main_musicstream.cpp are used for testing.
 
-Details of tasks and classes can be found in .pdf file.
+Details of tasks and classes can be found in information.pdf
